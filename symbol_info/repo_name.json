@@ -1,0 +1,13 @@
+{
+  "symbol": [
+    "BTC_DEV_ACTIVITY",
+    "BTC_SOCIAL_VOLUME_TOTAL",
+    "ETH_DEV_ACTIVITY"
+  ],
+  "pricescale": [10, 10, 10],
+  "description": [
+    "Bitcoin developer activity",
+    "Bitcoin social volume total",
+    "Ethereum developer activity"
+  ]
+}
